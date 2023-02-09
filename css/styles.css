@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    text-align: center; 
+    font-family: "Brush Script MT", cursive;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+.top-container{
+    background-color: #DEF5E5;
+    position: relative;
+   
+
+}
+h1{
+    margin: 150px auto 0 auto;
+    display: inline-block;
+    font-family: 'Parisienne', cursive;
+    font-size: 562.5%;
+    color: #8EC3B0;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: bolder;
+    color: #8EC3B0;
+    font-size: 30px;
+    font-weight: normal;
+   
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #85b4a2;
+}
+.cloud-one{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    width: 15%;
+}
+.cloud-two{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    width: 15%;
+}
+.profile-picture{
+    padding-top: 100px;
+    height: 200px;
+    width: 200px;
+}
+.description-of-myself{
+    width: 25%;
+    margin: 50px auto 100px auto;
+    font-size: 16px;
+
+}
+.middle-container{
+    background-color: #fffff0;
+    margin-bottom: 0;    
+}
+.skills{
+    margin-top: 50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 50px;
+}
+.skill-one{
+    width: 25%;
+    float: left;
+    margin-right: 30px;   
+}
+
+.skill-two{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border-top: 7px dotted gray;
+    width: 7%;
+}
+.contact-me{
+    margin-top: 50px;
+}
+.info-description{
+    width: 20%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fdfff5;
+    font-size: 20px;
+    background: #8EC3B0;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #869c71;
+    text-decoration: none;
+}
+.footer{
+    margin-top: 100px;
+    background-color: #8EC3B0 ;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.footer-link{
+    color: #fdfff5;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover{
+    color:#869c71 ;
+}
+.tag{
+    margin-top: 15px;
+}
+
+
+
+
